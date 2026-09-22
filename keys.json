@@ -1,0 +1,28 @@
+{
+  "keys": [
+    {
+      "key": "DEMO-1H-001",
+      "plan": "1H",
+      "duration_hours": 1,
+      "used": false
+    },
+    {
+      "key": "DEMO-1D-001",
+      "plan": "1D",
+      "duration_hours": 24,
+      "used": false
+    },
+    {
+      "key": "DEMO-1M-001",
+      "plan": "1M",
+      "duration_days": 30,
+      "used": false
+    },
+    {
+      "key": "DEMO-LT-001",
+      "plan": "LIFETIME",
+      "duration_days": null,
+      "used": false
+    }
+  ]
+}
